@@ -1,0 +1,5 @@
+en:
+  article_source:
+    success: "article_source Source saved successfully."
+    failed:  "Failed to save article_source Source."
+  hello: "Hello world"
