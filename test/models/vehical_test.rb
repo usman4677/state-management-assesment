@@ -1,6 +1,6 @@
 require "test_helper"
 
-class Api::V1::SavedArticlesControllerTest < ActionDispatch::IntegrationTest
+class VehicalTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

@@ -20,6 +20,7 @@ gem 'devise_token_auth', '~> 1.2'
 #cancancan for access control
 gem 'cancancan'
 gem 'domainatrix'
+gem 'state_machines'
 
 # Rolify gem for users's role management
 gem "rolify"
