@@ -21,7 +21,7 @@ gem 'devise_token_auth', '~> 1.2'
 gem 'cancancan'
 gem 'domainatrix'
 gem 'state_machines'
-
+gem 'state_machines-activerecord'
 # Rolify gem for users's role management
 gem "rolify"
 
